@@ -1,0 +1,15 @@
+{
+    "name": "currency-converter",
+    "version": "1.0.0",
+    "description": "Currency Converter Electron App",
+    "main": "main.js",
+    "scripts": {
+      "start": "electron ."
+    },
+    "author": "Your Name",
+    "license": "MIT",
+    "dependencies": {
+      "electron": "^14.0.0"
+    }
+  }
+  
